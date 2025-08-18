@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 0f1411b6-decf-4ae4-ac52-0fd3d4b2dba9
+      url: https://deluxe-basbousa-693656.netlify.app
