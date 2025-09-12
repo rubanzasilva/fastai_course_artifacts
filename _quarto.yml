@@ -1,0 +1,7 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Stable Diffusion foundations"
+  google-analytics: "G-2DWSBZQG4Q"

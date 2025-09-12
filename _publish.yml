@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: e934fa93-1234-4e8f-b93d-a12377879b0e
+      url: 'https://sage-horse-46c294.netlify.app'
