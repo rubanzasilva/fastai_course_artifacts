@@ -1,0 +1,24 @@
+---
+title: "Stable Diffusion from the Foundations"
+subtitle: "Based on fast.ai Practical Deep Learning for Coders - Lesson 9"
+author: "Silver Rubanza"
+date: "August 18, 2025"
+---
+
+## Welcome
+
+This tutorial provides a comprehensive walkthrough of Stable Diffusion, starting from the theoretical foundations and building up to a complete implementation.
+
+### Contents
+
+- [Lesson 9: Stable Diffusion Theory and Implementation](lesson_9.ipynb)
+
+### Overview
+
+We'll cover:
+
+1. **Theory** - The mathematical foundations and concepts
+2. **Implementation** - Building Stable Diffusion from scratch using PyTorch
+3. **Practical Applications** - Real-world usage and experimentation
+
+Based on the excellent [fast.ai Practical Deep Learning for Coders](https://course.fast.ai/) course.
